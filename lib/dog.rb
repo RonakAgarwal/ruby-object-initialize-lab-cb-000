@@ -13,4 +13,4 @@ end
 
 dank = Dog.new
 
-puts dank
+puts dank.name
