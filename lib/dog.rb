@@ -10,3 +10,7 @@ class Dog
   end
 
 end
+
+dank = Dog.new
+
+puts dank
