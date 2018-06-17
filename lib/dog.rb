@@ -7,10 +7,10 @@ class Dog
       def breed
         breed = "Mutt"
       end
-    
+
   end
 
-  
+
 
 
 
