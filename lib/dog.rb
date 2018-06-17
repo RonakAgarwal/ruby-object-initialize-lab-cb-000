@@ -6,6 +6,6 @@ class Dog
     Dog.new("name", "Mutt")
   end
 
-  
+
 
 end
