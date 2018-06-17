@@ -6,9 +6,9 @@ class Dog
   end
 
   def breed
-    this.breed = "Mutt"
+    Dog.breed = "Mutt"
   end
 
 end
 
-snoop = Dog.new("Snoop")
+
