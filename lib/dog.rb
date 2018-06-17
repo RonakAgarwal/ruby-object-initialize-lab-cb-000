@@ -5,12 +5,9 @@ class Dog
     @breed = breed
   end
 
-  def breed=(mutt)
-    @breed = "Mutt"
+  if breed = " "
+    breed = "Mutt"
   end
 
 end
 
-dank = Dog.new
-
-puts dank.name
