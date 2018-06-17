@@ -5,8 +5,6 @@ class Dog
     @breed = breed
   end
 
-  if breed = " "
-    breed = "Mutt"
-  end
+  Dog.new("name", "Mutt")
 
 end
