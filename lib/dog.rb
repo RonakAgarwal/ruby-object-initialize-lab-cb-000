@@ -5,10 +5,6 @@ class Dog
     @breed = breed
   end
 
-  def breed=(default)
-    @breed = "Mutt"
-  end
-
   def breed
     @breed
   end
@@ -17,5 +13,3 @@ class Dog
 
 
 end
-
-snoop= Dog.new
